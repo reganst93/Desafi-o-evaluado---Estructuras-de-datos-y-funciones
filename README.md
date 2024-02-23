@@ -1,4 +1,6 @@
 Desafío Evaluado - Estructuras de Datos y Funciones
+
+
 Este desafío se enfocó en poner a prueba habilidades específicas relacionadas con estructuras de datos y funciones en Python. El objetivo principal era abordar tres tareas distintas:
 
 1. Conversor de Tasas
